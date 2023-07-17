@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wasiq Afnan Ansari</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img src="[https://unsplash.com/photos/oqStl2L5oxI](https://images.app.goo.gl/vysAXwiEashgVP6q6)" width="400" align="right">
+<img src="https://images.app.goo.gl/vysAXwiEashgVP6q6" width="400" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiqafnan&label=Profile%20views&color=0e75b6&style=flat" alt="wasiqafnan" /> </p>
+<p align="left"> <img src="https://commons.wikimedia.org/wiki/File:Programming123najra.gif" alt="wasiqafnan" /> </p>
 
 - 🔭 I’m currently working on **E-commerce Website**
 
