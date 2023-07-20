@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/wasiq-afnan-ansari-cs2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wasiq-afnan-ansari-cs2021" height="30" width="40" target="_blank" /></a>
 <a href="https://fb.com/afnanansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afnan ansari" height="30" width="40" target="_blank" /></a>
-<a href="https://auth.geeksforgeeks.org/user/wasiqafnanansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="wasiq afnan ansari" height="30" width="40" target="_blank" /></a>
+<a href="https://auth.geeksforgeeks.org/user/wasiqafnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="wasiq afnan ansari" height="30" width="40" target="_blank" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
