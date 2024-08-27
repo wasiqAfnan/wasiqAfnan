@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://commons.wikimedia.org/wiki/File:Programming123najra.gif" alt="wasiqafnan" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **My Portfolio Site**
 
 - 💬 Ask me about **react, node, c, java**
 
