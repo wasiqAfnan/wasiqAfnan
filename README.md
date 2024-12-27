@@ -1,7 +1,9 @@
-<picture align = "center">
+<center>
+    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wasiqAfnan&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=wasiqAfnan&theme=default" />
 </picture>
+</center>
 <h1 align="center">Hi 👋, I'm Wasiq Afnan Ansari</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
