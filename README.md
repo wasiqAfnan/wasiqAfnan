@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasiqafnan&show_icons=true&locale=en&layout=compact" alt="wasiqafnan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasiqafnan&show_icons=true&locale=en" alt="wasiqafnan" /></p>
-
 
