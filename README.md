@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=androidstudio,appwrite,atom,aws,bash,bootstrap,bun,c,cpp,cloudflare,codepen,css,docker,dynamodb,express,figma,firebase,flask,gcp,git,github,gitlab,graphql,heroku,html,htmx,java,js,jest,kafka,linux,md,matlab,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,opencv,ps,php,postgres,postman,powershell,prisma,py,rabbitmq,react,redis,redux,regex,replit,sqlite,stackoverflow,sublime,supabase,tailwind,ts,ubuntu,vercel,vim,vite,vscode,windows,yarn" />
+<img src="https://skillicons.dev/icons?i= java, c, cpp, py, html, css, js, php, bootstrap, react, nodejs, express, npm, vite, materialui, tailwind, mysql, postman, vscode, git, github, stackoverflow, replit, vscode, idea, pycharm, eclipse, wordpress, windows, linux, ubuntu" />
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasiqafnan&show_icons=true&locale=en&layout=compact" alt="wasiqafnan" /></p>
 
