@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i= java, c, cpp, py, html, css, js, php, bootstrap, react, nodejs, express, npm, vite, materialui, tailwind, mysql, postman, vscode, git, github, stackoverflow, replit, vscode, idea, pycharm, eclipse, wordpress, windows, linux, ubuntu" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,py,html,css,js,php,bootstrap,react,nodejs,express,npm,vite,materialui,tailwind,mysql,postman,vscode,git,github,stackoverflow,replit,vscode,idea,pycharm,eclipse,wordpress,windows,linux,ubuntu" />
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasiqafnan&show_icons=true&locale=en&layout=compact" alt="wasiqafnan" /></p>
 
