@@ -1,5 +1,7 @@
 <p align="center">
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=wasiqafnan&theme=dracula)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+        <img src="https://nirzak-streak-stats.vercel.app?user=wasiqafnan&theme=dracula" alt="GitHub Streak">
+    </a>
 </p>
 </center>
 <h1 align="center">Hi 👋, I'm Wasiq Afnan Ansari</h1>
