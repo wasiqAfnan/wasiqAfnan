@@ -1,4 +1,6 @@
+<p align="center">
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=wasiqafnan&theme=dracula)](https://git.io/streak-stats)
+</p>
 </center>
 <h1 align="center">Hi 👋, I'm Wasiq Afnan Ansari</h1>
 <h3 align="center">A passionate Web developer from India</h3>
