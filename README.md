@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wasiqAfnan&theme=radiant&hide_border=flase" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wasiqAfnan&theme=dracula&hide_border=flase" alt="GitHub Streak" /></a>
 </p>
 </center>
 <h1 align="center">Hi 👋, I'm Wasiq Afnan Ansari</h1>
